@@ -41,6 +41,4 @@ Got questions or just want to chat? Reach out to me:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
----
-
 ⭐️ Don't forget to star this repo if you find it interesting! ⭐️
