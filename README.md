@@ -33,7 +33,7 @@ While this is a personal site, I'm open to suggestions! Feel free to:
 
 Got questions or just want to chat? Reach out to me:
 
-- 📧 Email: your.email@example.com
+- 📧 Email: sgberhault@willamette.com
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile)
 
