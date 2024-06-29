@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Stéphane</title>
+    <link>https://stekosan.github.io/tags/</link>
+    <description>Recent content in Tags on Stéphane</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Jun 2024 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://stekosan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DecisionTree</title>
+      <link>https://stekosan.github.io/tags/decisiontree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stekosan.github.io/tags/decisiontree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GaussianNB</title>
+      <link>https://stekosan.github.io/tags/gaussiannb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stekosan.github.io/tags/gaussiannb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KNN</title>
+      <link>https://stekosan.github.io/tags/knn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stekosan.github.io/tags/knn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PCA</title>
+      <link>https://stekosan.github.io/tags/pca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stekosan.github.io/tags/pca/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stacking</title>
+      <link>https://stekosan.github.io/tags/stacking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stekosan.github.io/tags/stacking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Features</title>
+      <link>https://stekosan.github.io/tags/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stekosan.github.io/tags/features/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://stekosan.github.io/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stekosan.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Supervised</title>
+      <link>https://stekosan.github.io/tags/supervised/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stekosan.github.io/tags/supervised/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reggressor on Stéphane Berhault</title>
+    <link>http://localhost:1313/tags/reggressor/</link>
+    <description>Recent content in Reggressor on Stéphane Berhault</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Jun 2024 12:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/reggressor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Data Science Salary Estimator</title>
+      <link>http://localhost:1313/post/project-1/</link>
+      <pubDate>Fri, 28 Jun 2024 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/post/project-1/</guid>
+      <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
+    </item>
+  </channel>
+</rss>
