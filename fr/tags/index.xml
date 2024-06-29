@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Stéphane</title>
-    <link>https://stekosan.github.io/fr/tags/</link>
+    <link>https://stekosan.github.io/Portfolio-Website/fr/tags/</link>
     <description>Recent content in Tags on Stéphane</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
-    <atom:link href="https://stekosan.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://stekosan.github.io/Portfolio-Website/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data</title>
-      <link>https://stekosan.github.io/fr/tags/data/</link>
+      <link>https://stekosan.github.io/Portfolio-Website/fr/tags/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://stekosan.github.io/fr/tags/data/</guid>
+      <guid>https://stekosan.github.io/Portfolio-Website/fr/tags/data/</guid>
       <description></description>
     </item>
   </channel>

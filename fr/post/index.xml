@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projets on Stéphane</title>
-    <link>https://stekosan.github.io/fr/post/</link>
+    <link>https://stekosan.github.io/Portfolio-Website/fr/post/</link>
     <description>Recent content in Projets on Stéphane</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
-    <atom:link href="https://stekosan.github.io/fr/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://stekosan.github.io/Portfolio-Website/fr/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1 : Lorem ipsum</title>
-      <link>https://stekosan.github.io/fr/post/chapter-1/</link>
+      <link>https://stekosan.github.io/Portfolio-Website/fr/post/chapter-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>https://stekosan.github.io/fr/post/chapter-1/</guid>
+      <guid>https://stekosan.github.io/Portfolio-Website/fr/post/chapter-1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod velit in justo tincidunt, ac lacinia nunc faucibus. Sed vitae magna eget lorem vestibulum ultrices. Fusce varius sapien nec nisi hendrerit, vel fringilla nunc malesuada. Donec auctor, nisi vel bibendum tincidunt, nunc elit tincidunt nunc, nec tincidunt nunc nunc vel nunc.&#xA;Praesent lacinia urna vel libero volutpat, nec aliquam nunc tincidunt. Curabitur nec nunc nec nunc tincidunt tincidunt. Vivamus nec nunc nec nunc tincidunt tincidunt.</description>
     </item>
   </channel>

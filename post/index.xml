@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Stéphane</title>
-    <link>https://stekosan.github.io/post/</link>
+    <link>https://stekosan.github.io/Portfolio-Website/post/</link>
     <description>Recent content in Projects on Stéphane</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 29 Jun 2024 12:00:00 -0500</lastBuildDate>
-    <atom:link href="https://stekosan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://stekosan.github.io/Portfolio-Website/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 2: Mushroom Edibility Prediction</title>
-      <link>https://stekosan.github.io/post/project-2/</link>
+      <link>https://stekosan.github.io/Portfolio-Website/post/project-2/</link>
       <pubDate>Sat, 29 Jun 2024 12:00:00 -0500</pubDate>
-      <guid>https://stekosan.github.io/post/project-2/</guid>
+      <guid>https://stekosan.github.io/Portfolio-Website/post/project-2/</guid>
       <description>Introduction The goal of this project is to develop a machine learning model that can predict the edibility of mushrooms based on their descriptions. The dataset used for this project is derived from &amp;ldquo;The Audubon Society Field Guide to North American Mushrooms&amp;rdquo; and contains descriptions of hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota family. Each species is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended.</description>
     </item>
     <item>
       <title>Project 1: Data Science Salary Estimator</title>
-      <link>https://stekosan.github.io/post/project-1/</link>
+      <link>https://stekosan.github.io/Portfolio-Website/post/project-1/</link>
       <pubDate>Fri, 28 Jun 2024 12:00:00 -0500</pubDate>
-      <guid>https://stekosan.github.io/post/project-1/</guid>
+      <guid>https://stekosan.github.io/Portfolio-Website/post/project-1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod velit in justo tincidunt, ac lacinia nunc faucibus. Sed vitae magna eget lorem vestibulum ultrices. Fusce varius sapien nec nisi hendrerit, vel fringilla nunc malesuada. Donec auctor, nisi vel bibendum tincidunt, nunc elit tincidunt nunc, nec tincidunt nunc nunc vel nunc.&#xA;Praesent lacinia urna vel libero volutpat, nec aliquam nunc tincidunt. Curabitur nec nunc nec nunc tincidunt tincidunt. Vivamus nec nunc nec nunc tincidunt tincidunt.</description>
     </item>
   </channel>
