@@ -2,131 +2,131 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://stekosan.github.io/Portfolio-Website/</loc>
+    <loc>https://stekosan.github.io/</loc>
     <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://stekosan.github.io/Portfolio-Website/fr/"
+                href="https://stekosan.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://stekosan.github.io/Portfolio-Website/"
+                href="https://stekosan.github.io/"
                 />
   </url><url>
-    <loc>https://stekosan.github.io/Portfolio-Website/tags/decisiontree/</loc>
+    <loc>https://stekosan.github.io/tags/decisiontree/</loc>
     <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stekosan.github.io/Portfolio-Website/tags/gaussiannb/</loc>
+    <loc>https://stekosan.github.io/tags/gaussiannb/</loc>
     <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stekosan.github.io/Portfolio-Website/tags/knn/</loc>
+    <loc>https://stekosan.github.io/tags/knn/</loc>
     <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stekosan.github.io/Portfolio-Website/tags/pca/</loc>
+    <loc>https://stekosan.github.io/tags/pca/</loc>
     <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stekosan.github.io/Portfolio-Website/post/project-2/</loc>
+    <loc>https://stekosan.github.io/post/project-2/</loc>
     <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stekosan.github.io/Portfolio-Website/tags/stacking/</loc>
+    <loc>https://stekosan.github.io/tags/stacking/</loc>
     <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stekosan.github.io/Portfolio-Website/tags/</loc>
+    <loc>https://stekosan.github.io/tags/</loc>
     <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://stekosan.github.io/Portfolio-Website/fr/tags/"
+                href="https://stekosan.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://stekosan.github.io/Portfolio-Website/tags/"
+                href="https://stekosan.github.io/tags/"
                 />
   </url><url>
-    <loc>https://stekosan.github.io/Portfolio-Website/tags/features/</loc>
+    <loc>https://stekosan.github.io/tags/features/</loc>
     <lastmod>2024-06-28T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stekosan.github.io/Portfolio-Website/post/project-1/</loc>
+    <loc>https://stekosan.github.io/post/project-1/</loc>
     <lastmod>2024-06-28T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stekosan.github.io/Portfolio-Website/post/</loc>
+    <loc>https://stekosan.github.io/post/</loc>
     <lastmod>2024-06-28T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://stekosan.github.io/Portfolio-Website/fr/post/"
+                href="https://stekosan.github.io/fr/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://stekosan.github.io/Portfolio-Website/post/"
+                href="https://stekosan.github.io/post/"
                 />
   </url><url>
-    <loc>https://stekosan.github.io/Portfolio-Website/tags/python/</loc>
+    <loc>https://stekosan.github.io/tags/python/</loc>
     <lastmod>2024-06-28T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stekosan.github.io/Portfolio-Website/tags/supervised/</loc>
+    <loc>https://stekosan.github.io/tags/supervised/</loc>
     <lastmod>2024-06-28T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stekosan.github.io/Portfolio-Website/about/</loc>
+    <loc>https://stekosan.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stekosan.github.io/Portfolio-Website/categories/</loc>
+    <loc>https://stekosan.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://stekosan.github.io/Portfolio-Website/fr/categories/"
+                href="https://stekosan.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://stekosan.github.io/Portfolio-Website/categories/"
+                href="https://stekosan.github.io/categories/"
                 />
   </url><url>
-    <loc>https://stekosan.github.io/Portfolio-Website/contact/</loc>
+    <loc>https://stekosan.github.io/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://stekosan.github.io/Portfolio-Website/fr/contact/"
+                href="https://stekosan.github.io/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://stekosan.github.io/Portfolio-Website/contact/"
+                href="https://stekosan.github.io/contact/"
                 />
   </url>
 </urlset>

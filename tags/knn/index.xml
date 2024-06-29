@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KNN on Stéphane</title>
-    <link>https://stekosan.github.io/Portfolio-Website/tags/knn/</link>
+    <link>https://stekosan.github.io/tags/knn/</link>
     <description>Recent content in KNN on Stéphane</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 29 Jun 2024 12:00:00 -0500</lastBuildDate>
-    <atom:link href="https://stekosan.github.io/Portfolio-Website/tags/knn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://stekosan.github.io/tags/knn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 2: Mushroom Edibility Prediction</title>
-      <link>https://stekosan.github.io/Portfolio-Website/post/project-2/</link>
+      <link>https://stekosan.github.io/post/project-2/</link>
       <pubDate>Sat, 29 Jun 2024 12:00:00 -0500</pubDate>
-      <guid>https://stekosan.github.io/Portfolio-Website/post/project-2/</guid>
+      <guid>https://stekosan.github.io/post/project-2/</guid>
       <description>Introduction The goal of this project is to develop a machine learning model that can predict the edibility of mushrooms based on their descriptions. The dataset used for this project is derived from &amp;ldquo;The Audubon Society Field Guide to North American Mushrooms&amp;rdquo; and contains descriptions of hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota family. Each species is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended.</description>
     </item>
   </channel>

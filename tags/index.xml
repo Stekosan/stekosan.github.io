@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Stéphane</title>
-    <link>https://stekosan.github.io/Portfolio-Website/tags/</link>
+    <link>https://stekosan.github.io/tags/</link>
     <description>Recent content in Tags on Stéphane</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 29 Jun 2024 12:00:00 -0500</lastBuildDate>
-    <atom:link href="https://stekosan.github.io/Portfolio-Website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://stekosan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DecisionTree</title>
-      <link>https://stekosan.github.io/Portfolio-Website/tags/decisiontree/</link>
+      <link>https://stekosan.github.io/tags/decisiontree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://stekosan.github.io/Portfolio-Website/tags/decisiontree/</guid>
+      <guid>https://stekosan.github.io/tags/decisiontree/</guid>
       <description></description>
     </item>
     <item>
       <title>GaussianNB</title>
-      <link>https://stekosan.github.io/Portfolio-Website/tags/gaussiannb/</link>
+      <link>https://stekosan.github.io/tags/gaussiannb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://stekosan.github.io/Portfolio-Website/tags/gaussiannb/</guid>
+      <guid>https://stekosan.github.io/tags/gaussiannb/</guid>
       <description></description>
     </item>
     <item>
       <title>KNN</title>
-      <link>https://stekosan.github.io/Portfolio-Website/tags/knn/</link>
+      <link>https://stekosan.github.io/tags/knn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://stekosan.github.io/Portfolio-Website/tags/knn/</guid>
+      <guid>https://stekosan.github.io/tags/knn/</guid>
       <description></description>
     </item>
     <item>
       <title>PCA</title>
-      <link>https://stekosan.github.io/Portfolio-Website/tags/pca/</link>
+      <link>https://stekosan.github.io/tags/pca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://stekosan.github.io/Portfolio-Website/tags/pca/</guid>
+      <guid>https://stekosan.github.io/tags/pca/</guid>
       <description></description>
     </item>
     <item>
       <title>Stacking</title>
-      <link>https://stekosan.github.io/Portfolio-Website/tags/stacking/</link>
+      <link>https://stekosan.github.io/tags/stacking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://stekosan.github.io/Portfolio-Website/tags/stacking/</guid>
+      <guid>https://stekosan.github.io/tags/stacking/</guid>
       <description></description>
     </item>
     <item>
       <title>Features</title>
-      <link>https://stekosan.github.io/Portfolio-Website/tags/features/</link>
+      <link>https://stekosan.github.io/tags/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://stekosan.github.io/Portfolio-Website/tags/features/</guid>
+      <guid>https://stekosan.github.io/tags/features/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://stekosan.github.io/Portfolio-Website/tags/python/</link>
+      <link>https://stekosan.github.io/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://stekosan.github.io/Portfolio-Website/tags/python/</guid>
+      <guid>https://stekosan.github.io/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Supervised</title>
-      <link>https://stekosan.github.io/Portfolio-Website/tags/supervised/</link>
+      <link>https://stekosan.github.io/tags/supervised/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://stekosan.github.io/Portfolio-Website/tags/supervised/</guid>
+      <guid>https://stekosan.github.io/tags/supervised/</guid>
       <description></description>
     </item>
   </channel>
