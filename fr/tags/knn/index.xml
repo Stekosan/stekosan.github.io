@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projets on Stéphane</title>
-    <link>https://stekosan.github.io/fr/post/</link>
-    <description>Recent content in Projets on Stéphane</description>
+    <title>KNN on Stéphane</title>
+    <link>https://stekosan.github.io/fr/tags/knn/</link>
+    <description>Recent content in KNN on Stéphane</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Sat, 29 Jun 2024 12:00:00 -0500</lastBuildDate>
-    <atom:link href="https://stekosan.github.io/fr/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://stekosan.github.io/fr/tags/knn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 2: Prédiction de la comestibilité des champignons</title>
       <link>https://stekosan.github.io/fr/post/project-2/</link>
       <pubDate>Sat, 29 Jun 2024 12:00:00 -0500</pubDate>
       <guid>https://stekosan.github.io/fr/post/project-2/</guid>
       <description>Introduction L&amp;rsquo;objectif de ce projet est de développer un modèle d&amp;rsquo;apprentissage automatique capable de prédire la comestibilité des champignons en fonction de leurs descriptions. L&amp;rsquo;ensemble de données utilisé pour ce projet est dérivé du &amp;ldquo;Guide de terrain de la Société Audubon sur les champignons d&amp;rsquo;Amérique du Nord&amp;rdquo; et contient des descriptions d&amp;rsquo;échantillons hypothétiques correspondant à 23 espèces de champignons à lamelles des familles Agaricus et Lepiota. Chaque espèce est identifiée comme définitivement comestible, définitivement toxique, ou de comestibilité inconnue et non recommandée.</description>
-    </item>
-    <item>
-      <title>Project 1: Estimateur de salaire en science des données</title>
-      <link>https://stekosan.github.io/fr/post/project-1/</link>
-      <pubDate>Fri, 28 Jun 2024 12:00:00 -0500</pubDate>
-      <guid>https://stekosan.github.io/fr/post/project-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod velit in justo tincidunt, ac lacinia nunc faucibus. Sed vitae magna eget lorem vestibulum ultrices. Fusce varius sapien nec nisi hendrerit, vel fringilla nunc malesuada. Donec auctor, nisi vel bibendum tincidunt, nunc elit tincidunt nunc, nec tincidunt nunc nunc vel nunc.&#xA;Praesent lacinia urna vel libero volutpat, nec aliquam nunc tincidunt. Curabitur nec nunc nec nunc tincidunt tincidunt. Vivamus nec nunc nec nunc tincidunt tincidunt.</description>
     </item>
   </channel>
 </rss>

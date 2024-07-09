@@ -2,13 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://stekosan.github.io/fr/tags/data/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <loc>https://stekosan.github.io/fr/tags/decisiontree/</loc>
+    <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/tags/decisiontree/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/tags/decisiontree/"
+                />
+  </url><url>
+    <loc>https://stekosan.github.io/fr/tags/gaussiannb/</loc>
+    <lastmod>2024-06-29T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/tags/gaussiannb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/tags/gaussiannb/"
+                />
+  </url><url>
+    <loc>https://stekosan.github.io/fr/tags/knn/</loc>
+    <lastmod>2024-06-29T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/tags/knn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/tags/knn/"
+                />
   </url><url>
     <loc>https://stekosan.github.io/fr/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -22,13 +62,53 @@
                 href="https://stekosan.github.io/fr/"
                 />
   </url><url>
-    <loc>https://stekosan.github.io/fr/post/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <loc>https://stekosan.github.io/fr/tags/pca/</loc>
+    <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/tags/pca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/tags/pca/"
+                />
+  </url><url>
+    <loc>https://stekosan.github.io/fr/post/project-2/</loc>
+    <lastmod>2024-06-29T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/post/project-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/post/project-2/"
+                />
+  </url><url>
+    <loc>https://stekosan.github.io/fr/tags/stacking/</loc>
+    <lastmod>2024-06-29T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/tags/stacking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/tags/stacking/"
+                />
   </url><url>
     <loc>https://stekosan.github.io/fr/tags/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -40,6 +120,66 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://stekosan.github.io/fr/tags/"
+                />
+  </url><url>
+    <loc>https://stekosan.github.io/fr/tags/features/</loc>
+    <lastmod>2024-06-28T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/tags/features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/tags/features/"
+                />
+  </url><url>
+    <loc>https://stekosan.github.io/fr/post/project-1/</loc>
+    <lastmod>2024-06-28T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/post/project-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/post/project-1/"
+                />
+  </url><url>
+    <loc>https://stekosan.github.io/fr/tags/python/</loc>
+    <lastmod>2024-06-28T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/tags/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/tags/python/"
+                />
+  </url><url>
+    <loc>https://stekosan.github.io/fr/tags/supervised/</loc>
+    <lastmod>2024-06-28T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/tags/supervised/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/tags/supervised/"
                 />
   </url><url>
     <loc>https://stekosan.github.io/fr/post/</loc>

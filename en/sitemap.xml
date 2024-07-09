@@ -21,31 +21,91 @@
     <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/tags/decisiontree/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/tags/decisiontree/"
+                />
   </url><url>
     <loc>https://stekosan.github.io/tags/gaussiannb/</loc>
     <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/tags/gaussiannb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/tags/gaussiannb/"
+                />
   </url><url>
     <loc>https://stekosan.github.io/tags/knn/</loc>
     <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/tags/knn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/tags/knn/"
+                />
   </url><url>
     <loc>https://stekosan.github.io/tags/pca/</loc>
     <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/tags/pca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/tags/pca/"
+                />
   </url><url>
     <loc>https://stekosan.github.io/post/project-2/</loc>
     <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/post/project-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/post/project-2/"
+                />
   </url><url>
     <loc>https://stekosan.github.io/tags/stacking/</loc>
     <lastmod>2024-06-29T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/tags/stacking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/tags/stacking/"
+                />
   </url><url>
     <loc>https://stekosan.github.io/tags/</loc>
     <lastmod>2024-06-29T12:00:00-05:00</lastmod>
@@ -66,11 +126,31 @@
     <lastmod>2024-06-28T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/tags/features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/tags/features/"
+                />
   </url><url>
     <loc>https://stekosan.github.io/post/project-1/</loc>
     <lastmod>2024-06-28T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/post/project-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/post/project-1/"
+                />
   </url><url>
     <loc>https://stekosan.github.io/post/</loc>
     <lastmod>2024-06-28T12:00:00-05:00</lastmod>
@@ -91,11 +171,31 @@
     <lastmod>2024-06-28T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/tags/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/tags/python/"
+                />
   </url><url>
     <loc>https://stekosan.github.io/tags/supervised/</loc>
     <lastmod>2024-06-28T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://stekosan.github.io/fr/tags/supervised/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://stekosan.github.io/tags/supervised/"
+                />
   </url><url>
     <loc>https://stekosan.github.io/about/</loc>
     <changefreq>monthly</changefreq>
